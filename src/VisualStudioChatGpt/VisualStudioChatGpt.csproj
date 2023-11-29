@@ -102,7 +102,7 @@
       <Version>2.0.5</Version>
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.SDK" Version="17.0.32112.339" ExcludeAssets="runtime" />
-    <PackageReference Include="Microsoft.VSSDK.BuildTools" Version="17.3.2092" />
+    <PackageReference Include="Microsoft.VSSDK.BuildTools" Version="17.8.2365" />
     <PackageReference Include="Newtonsoft.Json">
       <Version>13.0.3</Version>
     </PackageReference>
